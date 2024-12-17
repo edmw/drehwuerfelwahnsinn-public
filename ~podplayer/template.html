@@ -1,0 +1,21 @@
+<root data-test="player--m">
+    <div class="p-4 flex flex-col">
+        <div class="flex flex-grow">
+            <div class="w-full tablet:flex desktop:flex justify-between">
+                <div class="mobile:mb-3 tablet:mr-4 desktop:mr-4">
+                    <show-title class="mb-2 text-sm leading-tight"></show-title>
+                    <episode-title class="text-base leading-tight"></episode-title>
+                </div>
+            </div>
+        </div>
+        <div class="p-4 flex w-full items-center justify-center">
+            <play-button class="block mr-5" variant="simple"></play-button>
+            <speed-control class="mr-5"></speed-control>
+            <timer-current class="mr-5 text-sm hidden tablet:block"></timer-current>
+            <progress-bar class="mr-5"></progress-bar>
+            <timer-duration class="mr-5 text-sm"></timer-duration>
+            <volume-control></volume-control>
+        </div>
+    </div>
+    <error></error>
+</root>

@@ -1,0 +1,23 @@
+{
+    "version": 5,
+    "base": "/~podplayer/",
+    "activeTab": "share",
+    "theme": {
+        "tokens": {
+            "brand": "#FFFFFF",
+            "brandDark": "#FFFFFF",
+            "brandDarkest": "#EAE747",
+            "brandLightest": "#47D554",
+            "shadeDark": "#000000",
+            "text": "#000000",
+            "alt": "#000000"
+        }
+    },
+    "share": {
+        "channels": [
+            "mail",
+            "link"
+        ],
+        "sharePlaytime": false
+    }
+}

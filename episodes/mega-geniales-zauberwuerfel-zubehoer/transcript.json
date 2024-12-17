@@ -1,0 +1,1403 @@
+{
+    "segments": [
+        {
+            "start": 0.329,
+            "end": 1.491,
+            "text": "Drehwürfelwahnsinn Folge 1",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 2.232,
+            "end": 7.761,
+            "text": "Heute reden wir über Zauberwürfel-Zubehör, zum Beispiel Stackmats oder Timer und vieles weiteres mehr.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 18.102,
+            "end": 20.423,
+            "text": "Herzlich willkommen zum Drehwürfel-Wahnsinn.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 20.443,
+            "end": 22.284,
+            "text": "Zauberwürfel schnell gelöst.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 22.324,
+            "end": 31.206,
+            "text": "Ob du selbst Würfelwirbelwind bist oder einfach neugierig, wie jemand so schnell beim Lösen eines Zauberwürfels sein kann, hier findest du dazu Wissenswertes und Banales.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 31.227,
+            "end": 32.787,
+            "text": "Bereit, deinen Geist zu verdrehen?",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 32.807,
+            "end": 33.367,
+            "text": "Dann hör rein!",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 43.437,
+            "end": 52.826,
+            "text": "Ja, und das ist dann jetzt auch schon die zweite Folge mit der Nummer 1 vom Drehwürfel-Wahnsinn.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 52.886,
+            "end": 57.79,
+            "text": "Und heute soll es über Zubehör für Zaubwürfel gehen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 57.85,
+            "end": 62.154,
+            "text": "Ja, und da starten wir dann jetzt auch gleich rein.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 63.215,
+            "end": 66.74,
+            "text": "Beginnen wir jetzt mal mit der Stackmat.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 66.78,
+            "end": 71.345,
+            "text": "Die ist eine Matte, an die man den Timer auch anschließt, deshalb auch Stackmat-Timer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 71.405,
+            "end": 79.675,
+            "text": "Und die ist dafür da, wo man den Cube nach dem Solve drauflegen oder werfen oder schmeißen oder knallen oder was auch immer kann.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 80.616,
+            "end": 87.464,
+            "text": "Und ja, also knallen und schmeißen sollte man auch nicht, aber drauflegen oder leicht werfen oder so.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 87.504,
+            "end": 92.831,
+            "text": "Ja, und der kriegt dann halt keinen Kratzer, wenn man das auf irgendwie einen harten Holztisch wirft, dann ist das ein bisschen blöd.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 92.871,
+            "end": 94.433,
+            "text": "Und der ploppt dann wahrscheinlich auch einfach.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 94.473,
+            "end": 97.616,
+            "text": "Also die Teile fliegen dann, wenn man ihn auf den...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 98.437,
+            "end": 101.619,
+            "text": "auf irgendwas Hartes schmeißt, auch meistens auseinander.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 102.22,
+            "end": 104.281,
+            "text": "Ja, und deshalb hat man da die Stackmat.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 104.321,
+            "end": 109.545,
+            "text": "Die Textur von der ist quasi so ein bisschen so wie ein... wollte ich gerade sagen Brillenputztuch?",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 109.585,
+            "end": 111.686,
+            "text": "Äh, nicht Brillenputztuch.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 111.706,
+            "end": 115.168,
+            "text": "Die Textur von dem ist so ein bisschen so wie ein Mauspad.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 116.269,
+            "end": 127.038,
+            "text": "Jetzt reden wir über die zwei Timer, die bei den offiziellen Turnieren der WCA, der Double-U-See-A, World Cube Association, braucht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 127.098,
+            "end": 134.544,
+            "text": "Und zwar zum einen den Stackmat-Timer, um den geht es jetzt, und später auch noch den Inspection-Timer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 135.265,
+            "end": 142.692,
+            "text": "Der Stackmat-Timer ist dazu da, die Zeit, wie lange man braucht, um so einen Cube hier zu lösen, zu messen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 142.732,
+            "end": 146.736,
+            "text": "Weil man will ja irgendwie wissen, wer ist der Beste und so.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 146.776,
+            "end": 151.841,
+            "text": "Und das will man halt nicht nach Augenmaß machen, sondern halt genau wissen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 151.901,
+            "end": 153.022,
+            "text": "Und den...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 154.995,
+            "end": 162.439,
+            "text": "Der ist so aufgebaut, in der Mitte ist so ein ganz kleines Display und an den Seiten sind zwei so Flächen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 162.499,
+            "end": 177.166,
+            "text": "Und es ist halt so, dass sobald man den Stackmat-Timer, nein, wenn der Stackmat-Timer angeschaltet ist und man seine Hände auf die beiden Flächen legt, dann geht das rote Licht an.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 179.012,
+            "end": 181.233,
+            "text": "Also da sind zwei Lichter, ein rotes und ein grünes.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 181.273,
+            "end": 183.675,
+            "text": "Und da geht dann halt das rote Licht an.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 183.735,
+            "end": 189.558,
+            "text": "Und nach einer kurzen Zeit geht dann auch noch ein grünes Licht an.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 189.618,
+            "end": 194.861,
+            "text": "Und das heißt, sobald man jetzt die Hände runternimmt, fängt er an zu messen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 194.921,
+            "end": 198.643,
+            "text": "Das heißt, in der Mitte ist das Display, auf dem dann die Zeit steht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 198.683,
+            "end": 200.304,
+            "text": "Da sind die Flächen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 200.324,
+            "end": 203.866,
+            "text": "Wenn man drauflegt, rotes Licht und dann gleich grünes.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 203.886,
+            "end": 204.727,
+            "text": "Dann nimmt man runter.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 207.288,
+            "end": 209.909,
+            "text": "Okay, das ist ein sehr lauter Cube.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 209.949,
+            "end": 213.41,
+            "text": "Habe ich mir extra für diesen Podcast hingelegt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 213.45,
+            "end": 215.55,
+            "text": "Und dann macht man seine Hände wieder drauf.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 215.59,
+            "end": 220.452,
+            "text": "Und knallt halt sein Cube auf die Stackmat oder wirft oder so.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 222.297,
+            "end": 228.985,
+            "text": "Und dann hat man halt die Zeit.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 229.025,
+            "end": 231.688,
+            "text": "Viel mehr gibt es dazu eigentlich nicht zu sagen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 231.728,
+            "end": 237.414,
+            "text": "Also es ist noch ganz wichtig, dass man den immer resettet, weil...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 237.995,
+            "end": 242.999,
+            "text": "... das ist immer blöd, wenn man dann seine Hände drauflegt, er aber noch nicht geresettet ist.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 243.019,
+            "end": 245.921,
+            "text": "Dann geht auch das grüne Licht nicht an, sondern nur das rote.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 245.961,
+            "end": 249.444,
+            "text": "Und sobald man es dann runternimmt, startet halt auch die Zeit nicht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 249.484,
+            "end": 254.267,
+            "text": "Und dann tut man vielleicht Cuben ohne die Zeit zu stoppen, obwohl man eigentlich die Zeit stoppen wollte.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 254.948,
+            "end": 254.988,
+            "text": "Ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 256.326,
+            "end": 259.047,
+            "text": "Und mehr gibt es zu den Timern nicht zu sagen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 259.088,
+            "end": 262.069,
+            "text": "Also kommen wir jetzt zum Inspection-Timer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 262.109,
+            "end": 268.953,
+            "text": "Der Inspection-Timer ist dazu da, die Inspection-Time quasi zu schauen, dass man die nicht zu lang macht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 268.993,
+            "end": 276.056,
+            "text": "Denn man hat ja eine gewisse Zeit, in der man sich den Cube anschauen darf.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 276.136,
+            "end": 282.179,
+            "text": "Und dieses Anschauen, das ist halt...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 284.733,
+            "end": 288.397,
+            "text": "... da hat man halt nur eine gewisse Zeit, und zwar 15 Sekunden.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 288.457,
+            "end": 301.412,
+            "text": "Und das tut dann der Judge, das ist quasi der Schiedsrichter, der sitzt dann daneben bei der WCA, also für das ganze Wettbewerbszeug, und so mache ich noch eine eigene Folge.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 301.472,
+            "end": 305.937,
+            "text": "Und der tut dann halt immer messen, während der Inspectionen-Zeit, wie lange man...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 306.701,
+            "end": 316.547,
+            "text": "Wichtig ist dabei, dass man die Inspection-Zeit nicht stoppt, wenn der Teilnehmer die Hände auf den Timer legt, sondern sobald er sie runternimmt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 316.587,
+            "end": 320.51,
+            "text": "Weil in der Zeit, wo sie auf dem Timer liegen, kann er sich den Cube auch noch anschauen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 321.67,
+            "end": 324.072,
+            "text": "Und aufgebaut ist er quasi so.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 324.112,
+            "end": 328.274,
+            "text": "Links oben ist eine Taste, mit der man resetten kann.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 328.314,
+            "end": 328.995,
+            "text": "Also, ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 330.425,
+            "end": 337.428,
+            "text": "Und rechts oben ist so eine Taste, mit der man halt starten und stoppen kann.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 337.488,
+            "end": 340.969,
+            "text": "Und das ist quasi ein Timer, wie bei irgendwelchen Sportsachen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 341.749,
+            "end": 343.13,
+            "text": "Ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 343.17,
+            "end": 349.512,
+            "text": "Dann gibt es als Wettbewerbszubehör noch die Cube-Cover.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 349.552,
+            "end": 352.753,
+            "text": "Also ein Cube-Cover, nicht die Cube-Cover.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 352.813,
+            "end": 358.636,
+            "text": "Und das ist so ein Pappbecher, um vor der Inspection-Zeit den Cube zu verdecken.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 358.716,
+            "end": 358.816,
+            "text": "Da",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 361.565,
+            "end": 370.932,
+            "text": "Also, wenn es der Runner oder bei manchen Turnieren auch der Judge, zu den ganzen Wettbewerbszeugen mache, mache ich noch eine andere Folge übrigens.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 370.992,
+            "end": 376.716,
+            "text": "Und dann tut man als Runner... Runner sind so die, die...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 377.944,
+            "end": 396.622,
+            "text": "die Cubes hin und her tragen. Das in diesem Cube-Cover, den verdrehten Cube zum Judge tragen, dreht den Cube-Cover um und der Judge, der tut dann, sobald der entsprechende bereit ist, den Pappbecher hochheben und dann beginnt die Inspection-Time.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 396.682,
+            "end": 398.364,
+            "text": "Und dieser Pappbecher ist halt der Cube-Cover.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 399.768,
+            "end": 407.997,
+            "text": "Jetzt haben wir eigentlich alles Zubehör für den Wettbewerb und deshalb würde ich jetzt zur nächsten Rubrik gehen, zum Training.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 408.057,
+            "end": 415.945,
+            "text": "Also, ja, im Training gibt es halt den...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 418.053,
+            "end": 419.154,
+            "text": "Timer halt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 419.174,
+            "end": 421.996,
+            "text": "Man braucht ja auch was, um die Zeit zu messen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 422.036,
+            "end": 424.919,
+            "text": "Also man kann natürlich einfach so cuben, ohne Zeit zu messen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 424.939,
+            "end": 427.041,
+            "text": "Aber meistens misst man ja die Zeit.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 427.081,
+            "end": 429.302,
+            "text": "Und dafür gibt es einen Timer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 429.342,
+            "end": 432.525,
+            "text": "Man kann zum einen einen klassischen Stackmat-Timer nehmen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 432.605,
+            "end": 436.749,
+            "text": "Oder man nimmt eine Handy-App oder einen Computer-Timer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 436.789,
+            "end": 439.951,
+            "text": "Als Handy-App geht natürlich auch so eine normale Stoppuhr-App.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 440.011,
+            "end": 442.773,
+            "text": "Aber es gibt ja auch welche, die sind extra für Cubes da.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 442.793,
+            "end": 445.175,
+            "text": "Dazu kommen wir später noch, was die für Vorteile da haben.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 446.116,
+            "end": 450.742,
+            "text": "Ja, und dann braucht man noch eine Buchführung.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 450.782,
+            "end": 455.067,
+            "text": "Und da, also Buchführung in Anführungszeichen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 455.107,
+            "end": 461.314,
+            "text": "Und damit meine ich quasi, man braucht irgendwas, um aufzuschreiben",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 463.576,
+            "end": 466.158,
+            "text": "wie Dings",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 466.218,
+            "end": 469.4,
+            "text": "Also man braucht irgendwas, um aufzuschreiben, was für Zeiten man hat.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 469.42,
+            "end": 474.783,
+            "text": "Das braucht man nicht, aber man will es halt häufig machen, um ein bisschen zu schauen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 474.823,
+            "end": 476.244,
+            "text": "Ah ja, da werde ich jetzt schneller.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 476.324,
+            "end": 478.605,
+            "text": "Oh, da war es ein bisschen schlecht die Zeit.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 478.645,
+            "end": 481.147,
+            "text": "Und dann, ah ja, da ging es ordentlich runter.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 481.167,
+            "end": 481.967,
+            "text": "Aber da ging es...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 483.148,
+            "end": 486.45,
+            "text": "Nee, runter ist das Gute, hoch ist das Schlechte.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 486.51,
+            "end": 489.853,
+            "text": "Und, ähm, ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 489.933,
+            "end": 494.756,
+            "text": "Und, äh, da gibt's verschiedene Varianten.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 494.777,
+            "end": 497.699,
+            "text": "Zum einen die Handy-App, wie gesagt, die hat noch einen Vorteil.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 497.719,
+            "end": 500.18,
+            "text": "Und zwar, die kann dann automatisch auch eintragen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 500.22,
+            "end": 503.463,
+            "text": "Zum anderen, man kann's natürlich auf Papier machen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 503.503,
+            "end": 507.486,
+            "text": "Oder man trägt's einfach von Timer aus in irgendeine Tabelle ein.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 507.526,
+            "end": 508.967,
+            "text": "Oder halt auch in so eine Handy-App.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 508.987,
+            "end": 511.689,
+            "text": "Die kann dann meistens halt auch noch Diagramme und so anzeigen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 513.098,
+            "end": 522.16,
+            "text": "Ja, und dann gibt es noch einen Luxus quasi.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 522.2,
+            "end": 525.721,
+            "text": "Besonders angenehm ist es, wenn man einen Bluetooth-Timer hat.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 525.741,
+            "end": 527.981,
+            "text": "Zum Beispiel die GAN HALO.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 528.021,
+            "end": 537.143,
+            "text": "HALO übrigens nur mit einem L. Das kommt nämlich nicht vom deutschen Wort Hallo, sondern von... Ich glaube, das ist so eine Himmelserscheinung.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 537.163,
+            "end": 538.203,
+            "text": "Bin mir aber nicht ganz sicher.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 539.244,
+            "end": 540.124,
+            "text": "Und, ähm, ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 542.29,
+            "end": 545.133,
+            "text": "Und dann braucht man noch was zum Scramblen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 545.173,
+            "end": 557.003,
+            "text": "Da kann man zum einen halt natürlich einfach ganz wirr, also ganz zufällig scramblen mit den Händen und so, obwohl zufällig ist das eigentlich auch nicht, das ist einfach...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 557.623,
+            "end": 565.171,
+            "text": "Ja, das geht schon, aber da hat man dann halt manchmal extrem gute oder extrem schlechte Solves, obwohl extrem schlechte gibt es immer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 565.191,
+            "end": 573.36,
+            "text": "Extrem gute Solves hat man da dann häufig dabei und man will es ja möglichst fair für einen machen oder wenn man gegen andere kämpft, halt auch für die anderen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 574.241,
+            "end": 574.341,
+            "text": "Und",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 577.67,
+            "end": 582.491,
+            "text": "Ja, und das gibt es meistens auch in der Handy-App.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 582.532,
+            "end": 595.415,
+            "text": "Also das meistens in den Handy-Apps zum Zeitzustoppen oder für die Buchführung in Anführungszeichen, enthalten, dass da dann auch Scrambles angezeigt werden.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 595.455,
+            "end": 598.496,
+            "text": "Und zwar halt die offiziellen von der WCA.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 598.516,
+            "end": 599.916,
+            "text": "Die sind ja so, dass man sie, glaub,",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 602.137,
+            "end": 610.921,
+            "text": "Also man kann ja Zauberwürfel-Scrambles immer mit unter 20 Zügen lösen, wenn man den schnellsten Weg kennt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 610.961,
+            "end": 625.027,
+            "text": "Und die WCA-Scrambles sind glaube ich so, dass man nur welche kriegt, die man mit 16 oder mehr Zügen lösen kann.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 626.471,
+            "end": 637.801,
+            "text": "Ja, und da gibt es halt wie gesagt Handy-Apps, Computerprogramme oder sogar einen Roboter, der halt das dann dreht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 637.821,
+            "end": 642.985,
+            "text": "Von GAN gibt es einen, von Mojo einen, aber bei Mojo habe ich gehört, dass der ziemlich schlecht sein soll.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 643.025,
+            "end": 649.651,
+            "text": "Oder man kann sich natürlich auch einen selber basteln, wenn man programmiert und Maschinenkenntnisse hat, aber ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 650.371,
+            "end": 652.553,
+            "text": "Dann kommen wir zum Nächsten.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 652.593,
+            "end": 657.156,
+            "text": "Also wir waren ja gerade bei Training und jetzt kommen wir zu Pflege.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 657.217,
+            "end": 664.762,
+            "text": "Und zwar ein Cube, da kann man auch immer was machen, dass er sich dann besser dreht oder so.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 664.842,
+            "end": 668.245,
+            "text": "Und ja, dafür ist halt die Pflege.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 668.285,
+            "end": 670.067,
+            "text": "Und da gibt es Lube.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 670.127,
+            "end": 671.247,
+            "text": "Lube ist Schmiermittel.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 672.208,
+            "end": 676.132,
+            "text": "Und das ist halt dazu da, dass sich der Cube besser dreht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 676.172,
+            "end": 685.401,
+            "text": "Und zieht man dann die Steine etwas auseinander, tröpfelt ein paar Tropfen Lube rein und dann dreht man den Cube, dass er sich vermischt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 685.441,
+            "end": 690.406,
+            "text": "Übrigens, ein Lube ist quasi dasselbe drin wie in Silikonspray, glaube ich.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 691.327,
+            "end": 697.25,
+            "text": "Irgendwas mit Silikon, glaube ich, in irgendein Mittel.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 697.29,
+            "end": 702.051,
+            "text": "Das kann man auch reinmachen, aber bei Lube vertraut man irgendwie mehr darauf, dass es echt ist.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 702.091,
+            "end": 707.834,
+            "text": "Dabei kriegt man Lube viel weniger für den selben Preis.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 708.474,
+            "end": 713.557,
+            "text": "Ja, und da gibt es verschiedene Sorten beim Lube meistens.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 713.597,
+            "end": 717.538,
+            "text": "Und zwar eins, dass sich der Cube schneller dreht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 717.578,
+            "end": 720.7,
+            "text": "Wenn sein Cube zu langsam ist, dann kann man das reinmachen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 720.74,
+            "end": 723.421,
+            "text": "Eins, dass er sich kontrollierbarer bzw.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 723.461,
+            "end": 724.822,
+            "text": "langsamer drehen soll.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 724.862,
+            "end": 732.226,
+            "text": "Also wenn der Cube so schnell ist, dass du nicht mehr richtig kontrollieren kannst, dass du dann häufig Drehungen falsch machst oder so, sollte man das reinmachen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 732.266,
+            "end": 734.447,
+            "text": "Oder halt die Schraube festziehen, zu der kommen wir gleich.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 735.567,
+            "end": 740.711,
+            "text": "Und eins, das dafür da ist, dass er sich geschmeidiger dreht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 741.592,
+            "end": 749.338,
+            "text": "Ach, übrigens, ich benutze tatsächlich... Also mein Lube, was ich benutze, ist das GAN-Lube Nummer 1.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 750.198,
+            "end": 752.0,
+            "text": "Das ist Medium.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 752.02,
+            "end": 753.941,
+            "text": "Das macht den Cube geschmeidiger.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 753.961,
+            "end": 754.882,
+            "text": "Jetzt kommen wir zu den...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 757.541,
+            "end": 763.223,
+            "text": "Es ist was, damit sind quasi die Sachen gemeint, die häufig bei Cubes dabei sind.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 763.283,
+            "end": 774.368,
+            "text": "Und ja, zum einen ein Schraubenzieher zum Fest- und Lockerstellen der Schraube unter dem Cente-Cap.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 774.408,
+            "end": 778.429,
+            "text": "Also nicht immer haben Cubes eine Schraube unter dem Center-Cap, aber häufig.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 778.469,
+            "end": 784.231,
+            "text": "Manche Cubes haben entweder gar nichts zum Verstellen oder so andere Verstellmechanismen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 784.271,
+            "end": 784.552,
+            "text": "Für mich...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 785.893,
+            "end": 789.679,
+            "text": "Verstellen-Mechanismus musste.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 789.72,
+            "end": 791.984,
+            "text": "Das war auch falsch, glaube ich zumindest.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 792.044,
+            "end": 792.845,
+            "text": "Egal.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 792.905,
+            "end": 796.913,
+            "text": "Und mit dem kann man das dann halt auch verstellen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 798.488,
+            "end": 804.732,
+            "text": "Und ja, das ist wie gesagt häufig bei den Cubes mitgeliefert.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 804.772,
+            "end": 807.194,
+            "text": "Dann gibt es ein weiteres.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 807.234,
+            "end": 818.161,
+            "text": "Bei manchen Cubes gibt es noch so extra Accessoires, sowas wie zum Beispiel Magnetenverstell-Schraubenzieher.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 818.181,
+            "end": 820.643,
+            "text": "Naja, Schraubenzieher kann ich es eigentlich nicht nennen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 820.703,
+            "end": 826.527,
+            "text": "Was dann quasi dafür da ist, um die Magneten zu verstellen, weil Dings...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 829.669,
+            "end": 842.679,
+            "text": "... weil manche Cubes haben ja verstellbare Magneten und da gibt es ja meistens so Sachen, wo man so diese kleinen schraubenzieherartigen Dinger reinstecken kann, runterdrücken, drehen und dann wieder hochdrücken.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 843.48,
+            "end": 845.702,
+            "text": "Ja, ist ein bisschen schwierig zu erklären.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 847.803,
+            "end": 849.084,
+            "text": "Ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 849.144,
+            "end": 854.589,
+            "text": "Und dann gibt es",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 856.165,
+            "end": 859.349,
+            "text": "Ja, dann sind wir mit den Accessoires fertig.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 859.389,
+            "end": 861.731,
+            "text": "Also mit Pflege auch.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 861.792,
+            "end": 865.656,
+            "text": "Und jetzt kommt es zu Sonstigem.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 865.756,
+            "end": 866.477,
+            "text": "Sonstigem.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 866.997,
+            "end": 873.705,
+            "text": "Ja, und da kommen wir erstmal zu Dings, zu",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 875.766,
+            "end": 878.591,
+            "text": "Transport, Sachen, um die Cubes zu transportieren.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 878.611,
+            "end": 886.183,
+            "text": "Da gibt es zum einen Rucksäcke, Taschen und Köffer, die extra dafür da sind, mit vielen so kleinen Kästchen, wo man die Cubes reinlegen kann oder so.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 886.223,
+            "end": 887.725,
+            "text": "Also ich habe so einen zum Beispiel nicht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 889.598,
+            "end": 899.927,
+            "text": "Oder man kann, da verrate ich euch einen kleinen Geheimtrick von mir, und zwar einen Kosmetikkoffer als Cube-Koffer nehmen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 899.967,
+            "end": 902.329,
+            "text": "Also so einen Schminkkoffer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 902.369,
+            "end": 907.253,
+            "text": "Und ja, da gibt es halt welche, wo dann so verstellbare...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 909.755,
+            "end": 915.719,
+            "text": "verstellbare Fächer für die Schminkutensilien sind.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 915.759,
+            "end": 921.502,
+            "text": "Und da kann man halt auch super, wenn man sie richtig verstellt, die Zauberwürfel reinpacken.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 922.223,
+            "end": 932.249,
+            "text": "Ja, einen Link von dem Kosmetikkoffer, den ich da benutze, der halt auch solche verstellbaren haben, mache ich dann wahrscheinlich auch in die Shownotes, also in die Folgenbeschreibung.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 932.309,
+            "end": 935.471,
+            "text": "Als nächstes Aufbewahrung.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 935.531,
+            "end": 935.891,
+            "text": "Und da",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 937.812,
+            "end": 942.478,
+            "text": "will ich über so kleine Cube-Beutel reden.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 942.538,
+            "end": 944.841,
+            "text": "Also die sind auch meistens bei Cubes dabei.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 944.861,
+            "end": 948.225,
+            "text": "Hätte ich auch zu den Accessoires zählen können.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 948.265,
+            "end": 952.63,
+            "text": "Aber ja, das sind halt so kleine Beutel, wo gerade mal ein 3x3 reinpasst.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 952.67,
+            "end": 955.773,
+            "text": "Oder bei größeren Cubes, wenn es dabei ist, dann halt der.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 957.339,
+            "end": 970.024,
+            "text": "Und ja, GAN hatte zum Beispiel ein ziemlich Edles, so ein aus blauem Stoff mit hellblauen Bändeln.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 970.044,
+            "end": 972.865,
+            "text": "Das sieht super edel aus, ist aber leider ein riesen Staubfänger.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 974.506,
+            "end": 977.769,
+            "text": "Ja, und die braucht man nicht so wirklich.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 977.809,
+            "end": 982.753,
+            "text": "Also die sind relativ nutzlos.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 982.793,
+            "end": 985.355,
+            "text": "Aber irgendwie ist es trotzdem cool, wenn da dabei sind.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 985.395,
+            "end": 987.277,
+            "text": "Da haben alle ein bisschen unterschiedlich.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 987.297,
+            "end": 997.645,
+            "text": "GAN hat zum Beispiel, wie gesagt, dieses Edle, X-Man hat so ein Glattes und ja, mehr weiß ich gerade nicht.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 997.705,
+            "end": 998.286,
+            "text": "Und ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1000.606,
+            "end": 1004.749,
+            "text": "Die sind halt theoretisch zur Aufbewahrung, aber so wirklich benutzen tut man die selten.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1004.789,
+            "end": 1008.692,
+            "text": "Weil man sieht halt den Cube da nicht und ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1008.733,
+            "end": 1011.915,
+            "text": "Als nächstes für die Aufbewahrung: Cube-Ständer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1011.935,
+            "end": 1014.337,
+            "text": "Da gibt es verschiedene Arten.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1014.377,
+            "end": 1016.819,
+            "text": "Also was Cube-Ständer sind, muss ich glaube ich nicht erklären.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1016.839,
+            "end": 1018.2,
+            "text": "Das sind halt Ständer für Cubes.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1018.24,
+            "end": 1019.601,
+            "text": "Jetzt habe ich es doch erklärt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1019.661,
+            "end": 1020.162,
+            "text": "Und ähm",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1021.687,
+            "end": 1027.99,
+            "text": "Da gibt es halt verschiedene Varianten und der Standard ist quasi so pyramidenförmig.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1028.01,
+            "end": 1032.232,
+            "text": "Nicht ganz pyramiden, oben ist die Spitze quasi ab und er ist innen hohl.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1032.272,
+            "end": 1034.293,
+            "text": "Da kann man dann den Cube so reinstellen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1034.433,
+            "end": 1038.875,
+            "text": "Ist ein bisschen schwierig zu erklären.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1038.915,
+            "end": 1043.557,
+            "text": "Einen Link für einen Cube-Ständer kann ich dann wahrscheinlich auch in die Folgenbeschreibung machen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1044.597,
+            "end": 1051.401,
+            "text": "Ja, und das sind halt die klassischen, diese pyramidenförmige, die gibt es quasi von allen Marken.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1051.461,
+            "end": 1059.965,
+            "text": "MoYu, QiYi, GAN, YuXin, keine Ahnung, was es da noch so für alles für Arten gibt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1060.005,
+            "end": 1068.449,
+            "text": "Also, beziehungsweise, ich habe eine Ahnung, aber es wird, glaube ich, ein ganzer Podcast sein, wenn ich die ganzen Marken auflisten würde.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1068.489,
+            "end": 1069.05,
+            "text": "Ja, und...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1072.163,
+            "end": 1076.45,
+            "text": "dann, da gibt's aber halt dann auch noch so ein paar lustige Sondervarianten.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1077.231,
+            "end": 1081.518,
+            "text": "Ähm, MoYu hat zum Beispiel einen, der irgendwie lustig ist, der, ähm,",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1083.455,
+            "end": 1087.936,
+            "text": "das ist so ein Roboter, also keiner zum Cube zu verdrehen oder zu lösen.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1087.976,
+            "end": 1092.337,
+            "text": "Das ist ein Roboter, der halt aussieht wie so ein Roboter.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1092.377,
+            "end": 1098.578,
+            "text": "Und dort, wo der Kopf ist, ist halt so ein durchsichtiges Ding, wo man dann den Cube reinstellt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1098.618,
+            "end": 1099.958,
+            "text": "Das ist ganz lustig.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1099.998,
+            "end": 1101.919,
+            "text": "Oder keine Ahnung, was es da gibt.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1101.959,
+            "end": 1108.12,
+            "text": "Von MoYu gibt es auch noch so eine Multifunctional-Box, die verschiedene Ständer-Varianten hat.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1108.18,
+            "end": 1108.34,
+            "text": "Oder...",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1110.057,
+            "end": 1112.718,
+            "text": "MoYu hat viele verschiedene Ständer.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1112.778,
+            "end": 1114.618,
+            "text": "Ja, da gibt es viele.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1114.679,
+            "end": 1115.979,
+            "text": "Viele, viele, viele.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1116.019,
+            "end": 1118.12,
+            "text": "Viele, viele, viele, viele.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1118.18,
+            "end": 1119.32,
+            "text": "Viele, viele, viele, viele.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1120.08,
+            "end": 1122.321,
+            "text": "Ja.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1122.381,
+            "end": 1129.783,
+            "text": "Und das war es dann, glaube ich, auch schon mit den, Dings.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1129.823,
+            "end": 1133.965,
+            "text": "Mit den Cube-Ständern.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1134.005,
+            "end": 1137.266,
+            "text": "Und deshalb wäre die Folge jetzt eigentlich zu Ende.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1137.346,
+            "end": 1137.526,
+            "text": "Also.",
+            "speaker": "Edwin"
+        },
+        {
+            "start": 1139.103,
+            "end": 1141.04,
+            "text": "Tschüss und bis zum nächsten Mal.",
+            "speaker": "Edwin"
+        }
+    ],
+    "language": "de"
+}
